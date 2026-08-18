@@ -1,0 +1,20 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@11.13.0
+2 info using node@v26.2.0
+3 silly config load:file:C:\Program Files\nodejs\node_modules\npm\npmrc
+4 silly config load:file:D:\Documentos\ChatGPT\twinkster\.npmrc
+5 silly config load:file:C:\Users\cikag\.npmrc
+6 silly config load:file:C:\Users\cikag\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm install
+8 verbose argv "install" "--package-lock-only" "--ignore-scripts" "--no-audit" "--no-fund" "--cache" ".\\.npm-cache"
+9 verbose logfile logs-max:10 dir:D:\Documentos\ChatGPT\twinkster\.npm-cache\_logs\2026-08-14T14_50_41_380Z-
+10 verbose logfile D:\Documentos\ChatGPT\twinkster\.npm-cache\_logs\2026-08-14T14_50_41_380Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:4395630592 maxSize:1098907648 maxEntrySize:549453824
+13 silly idealTree buildDeps
+14 verbose cwd D:\Documentos\ChatGPT\twinkster
+15 verbose os Windows_NT 10.0.26200
+16 verbose node v26.2.0
+17 verbose npm  v11.13.0
+18 verbose exit 0
+19 info ok
